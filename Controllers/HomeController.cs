@@ -28,7 +28,7 @@ namespace coreTest.Controllers
             return View();
         }
 
-        public IActionResult Joon()
+        public IActionResult Joons()
         {
             return View();
         }
